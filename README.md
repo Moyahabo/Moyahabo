@@ -25,13 +25,13 @@ When I am not working with data, I enjoy reading books, going to gym and helping
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [2026 Project to be listed, e.g., Building a sales forecasting model in Python.]
-- **Project B:** [2026 Project to be listed, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [2026 goal:, Developing new tutorials on everything learning for my YouTube channel (to be named Learning with Mo).]
+- **Project A:** [2026 Project to be listed, e.g., Building a sales forecasting model in Python]
+- **Project B:** [2026 Project to be listed, e.g., Creating an interactive marketing dashboard in Power BI]
+- **Content Creation:** [2026 goal:, Developing new tutorials on everything learning for my YouTube channel (to be named Learning with Mo)]
 
 ## 🌱 Currently Learning 
 
-- [LLM and Prompt Engineering.]
+- [LLM and Prompt Engineering]
 - [AWS.]
 
 ## 🛠️ Technical Skillset
